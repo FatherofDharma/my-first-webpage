@@ -1,6 +1,6 @@
 # _My First Webpage_
 
-#### _This is the first webpage I have created, while at the coding school Epicodus., May 28th, 2019_
+#### _This is the first webpage I have created, while at the coding school Epicodus on May 28th, 2019._
 
 #### By _**Daniel Hongel and Gavin Kimberlin**_
 
